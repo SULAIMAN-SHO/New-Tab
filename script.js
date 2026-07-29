@@ -21,13 +21,16 @@ function resize() {
 addEventListener("resize", resize);
 resize();
 
-for (let i = 0; i < 180; i++) {
+for (let i = 0; i < 2000; i++) {
     p.push({
         x: Math.random() * w,
         y: Math.random() * h,
         r: Math.random() * 2 + 1,
         vx: (Math.random() - .5) * .15,
-        vy: (Math.random() - .5) * .15
+        vy: (Math.random() - .5) * .15,
+
+        alpha: Math.random(),                 // شفافية البداية
+        twinkle: Math.random() * 0.01 + 0.001  // سرعة الوميض
     });
 }
 
@@ -37,8 +40,8 @@ function draw() {
     ctx.clearRect(0, 0, w, h);
 
     let g = ctx.createRadialGradient(
-        w / 2 + Math.cos(t) * 250,
-        h / 2 + Math.sin(t * .8) * 180,
+        w / 2 + Math.cos(t) * 700,
+        h / 2 + Math.sin(t * .8) * 386,
         80,
         w / 2, h / 2,
         900
@@ -50,6 +53,7 @@ function draw() {
     ctx.fillRect(0, 0, w, h);
 
     for (const a of p) {
+        a.alpha += a.twinkle;
         a.x += a.vx;
         a.y += a.vy;
         if (a.x < 0) a.x = w;
@@ -59,7 +63,8 @@ function draw() {
 
         ctx.beginPath();
         ctx.arc(a.x, a.y, a.r, 0, Math.PI * 2);
-        ctx.fillStyle = "rgba(120,210,255,.85)";
+        ctx.fillStyle =
+            `rgba(128,212,255,${0.3 + Math.abs(Math.sin(a.alpha)) * 0.7})`;
         ctx.fill();
     }
     requestAnimationFrame(draw);
