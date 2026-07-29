@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "SULAIMAN SHO",
+  "version": "1.0",
+  "description": "Custom New Tab",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "icons": {
+    "128": "LOGO.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["model-viewer.min.js", "models/*"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

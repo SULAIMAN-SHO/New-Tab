@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit Evaluation Version) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1047px" height="760px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 104 75"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+   <clipPath id="id0">
+    <path d="M0 75l104 0 0 -75 -104 0 0 75z"/>
+   </clipPath>
+     <radialGradient id="id1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.20994 0.0728591 -0.103115 -1.71101 121 158)" cx="52" cy="60" r="16" fx="52" fy="60">
+      <stop offset="0" stop-opacity="1" stop-color="#76BBFF"/>
+      <stop offset="0.568627" stop-opacity="1" stop-color="#76BBFF"/>
+      <stop offset="1" stop-opacity="1" stop-color="#A9A8FF"/>
+     </radialGradient>
+     <radialGradient id="id2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.20994 0.0728591 -0.103115 -1.71101 121 158)" cx="52" cy="60" r="16" fx="52" fy="60">
+      <stop offset="0" stop-opacity="1" stop-color="#76BBFF"/>
+      <stop offset="0.568627" stop-opacity="1" stop-color="#76BBFF"/>
+      <stop offset="1" stop-opacity="1" stop-color="#A9A8FF"/>
+     </radialGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+  </g>
+  <g clip-path="url(#id0)">
+   <g>
+    <path fill="#3186FF" d="M103 71c0,2 -2,3 -3,3l-5 0c-2,0 -3,-2 -3,-3l0 -9c0,-6 0,-14 -1,-20 -2,-7 -5,-14 -11,-19 -7,-7 -17,-12 -28,-12 -11,0 -21,4 -28,12 -9,9 -12,19 -12,30 0,1 0,1 0,1l-6 0 -6 0 0 0 0 0c0,-15 2,-27 15,-39 9,-9 22,-15 36,-15 14,0 27,6 36,15 6,6 11,13 13,22 3,9 2,17 2,25l0 8z"/>
+    <path fill="#4FA0FF" d="M83 71c0,2 -2,3 -3,3l-5 0c-2,0 -3,-2 -3,-3l0 -10c0,-5 0,-11 -1,-16 -1,-5 -4,-9 -8,-13 -5,-5 -13,-9 -21,-9 -8,0 -16,3 -21,9 -5,5 -9,12 -9,21l0 0 0 2c0,1 0,1 0,1l-6 0 -6 0 0 0 0 0c0,-12 2,-22 12,-31 8,-7 18,-12 29,-12 11,0 22,5 29,12 4,4 8,10 10,16 2,7 2,14 2,21l0 10z"/>
+    <path fill="url(#id1)" d="M31 23c12,0 22,7 28,16 5,9 4,16 4,26l0 6c0,2 -2,3 -3,3l-5 0c-2,0 -3,-2 -3,-3l0 -6c0,-6 1,-14 -2,-20 -3,-6 -10,-11 -18,-11 -6,0 -10,2 -13,5 -3,3 -5,7 -5,13l0 3 0 0c0,0 0,0 0,0l0 0 0 16c0,2 -2,3 -3,3l-5 0c-2,0 -3,-2 -3,-3 0,-4 0,-9 0,-13 0,-10 0,-18 8,-26 6,-5 13,-9 22,-9z"/>
+    <path fill="#3186FF" d="M103 71c0,2 -2,3 -3,3l-5 0c-2,0 -3,-2 -3,-3l0 -9c0,-6 0,-14 -1,-20 -2,-7 -5,-14 -11,-19 -7,-7 -17,-12 -28,-12 -11,0 -21,4 -28,12 -9,9 -12,19 -12,30 0,1 0,1 0,1l-6 0 -6 0 0 0 0 0c0,-15 2,-27 15,-39 9,-9 22,-15 36,-15 14,0 27,6 36,15 6,6 11,13 13,22 3,9 2,17 2,25l0 8z"/>
+    <path fill="#4FA0FF" d="M83 71c0,2 -2,3 -3,3l-5 0c-2,0 -3,-2 -3,-3l0 -10c0,-5 0,-11 -1,-16 -1,-5 -4,-9 -8,-13 -5,-5 -13,-9 -21,-9 -8,0 -16,3 -21,9 -5,5 -9,12 -9,21l0 0 0 2c0,1 0,1 0,1l-6 0 -6 0 0 0 0 0c0,-12 2,-22 12,-31 8,-7 18,-12 29,-12 11,0 22,5 29,12 4,4 8,10 10,16 2,7 2,14 2,21l0 10z"/>
+    <path fill="url(#id2)" d="M31 23c12,0 22,7 28,16 5,9 4,16 4,26l0 6c0,2 -2,3 -3,3l-5 0c-2,0 -3,-2 -3,-3l0 -6c0,-6 1,-14 -2,-20 -3,-6 -10,-11 -18,-11 -6,0 -10,2 -13,5 -3,3 -5,7 -5,13l0 3 0 0c0,0 0,0 0,0l0 0 0 16c0,2 -2,3 -3,3l-5 0c-2,0 -3,-2 -3,-3 0,-4 0,-9 0,-13 0,-10 0,-18 8,-26 6,-5 13,-9 22,-9z"/>
+   </g>
+  </g>
+  <polygon fill="none" points="0,75 104,75 104,0 0,0 "/>
+ </g>
+</svg>

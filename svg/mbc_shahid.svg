@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit Evaluation Version) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="900px" height="900px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 66 66"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+   <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="66" y1="10" x2="0" y2="77">
+    <stop offset="0" stop-opacity="1" stop-color="#4497F5"/>
+    <stop offset="0.301961" stop-opacity="1" stop-color="#52B3BF"/>
+    <stop offset="0.470588" stop-opacity="1" stop-color="#59C2A5"/>
+    <stop offset="0.580392" stop-opacity="1" stop-color="#5BC690"/>
+    <stop offset="0.74902" stop-opacity="1" stop-color="#5ECB7A"/>
+    <stop offset="0.890196" stop-opacity="1" stop-color="#5FCE6C"/>
+    <stop offset="1" stop-opacity="1" stop-color="#60CF68"/>
+   </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path fill="url(#id0)" d="M15 0l37 0c8,0 15,7 15,15l0 37c0,8 -7,15 -15,15l-37 0c-8,0 -15,-7 -15,-15l0 -37c0,-8 7,-15 15,-15z"/>
+  <polygon fill="white" points="54,48 46,48 46,44 12,44 12,36 54,36 "/>
+  <circle fill="white" cx="16" cy="23" r="5"/>
+  <circle fill="white" cx="50" cy="23" r="5"/>
+  <circle fill="white" cx="33" cy="23" r="5"/>
+ </g>
+</svg>
