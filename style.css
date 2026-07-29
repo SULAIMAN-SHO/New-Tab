@@ -11,8 +11,6 @@
            font-family: Inter, Arial, sans-serif;
            background: #05070b;
            color: #fff;
-
-
        }
 
        .apps-toggle {
@@ -114,7 +112,7 @@
        }
 
        .containerS {
-           height: 100vh;
+
            display: flex;
            justify-content: center;
            align-items: center;
