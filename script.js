@@ -78,22 +78,11 @@ draw();
 
 
 
-
-
 const toggle = document.getElementById("toggleApps");
-
 const apps = document.getElementById("googleApps");
-
 const arrow = document.getElementById("arrow");
 
-toggle.onclick = () => {
-
-    apps.classList.toggle("show");
-
-    arrow.innerHTML = apps.classList.contains("show")
-
-        ? "▲"
-
-        : "▼";
-
-}
+toggle.addEventListener("click", () => {
+    const isOpen = apps.classList.toggle("show");
+    arrow.textContent = isOpen ? "▲" : "▼";
+});
