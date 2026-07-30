@@ -3,7 +3,8 @@ function clock() {
     const d = new Date();
     time.innerHTML = d.toLocaleTimeString([], {
         hour: '2-digit',
-        minute: '2-digit'
+        minute: '2-digit',
+        second: '2-digit'
     });
     date.innerHTML = `${d.getFullYear()}/${d.getMonth() + 1}/${d.getDate()}`;
 }
